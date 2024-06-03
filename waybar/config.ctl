@@ -1,0 +1,1 @@
+1||bottom|( hyprland/workspaces  ) ( wlr/taskbar custom/spotify ) |( idle_inhibitor clock )|( cpu memory custom/cpuinfo custom/gpuinfo ) ( backlight network bluetooth pulseaudio pulseaudio#microphone custom/updates custom/keybindhint ) ( tray battery custom/power )
